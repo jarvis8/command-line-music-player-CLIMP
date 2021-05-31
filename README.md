@@ -1,5 +1,5 @@
 # Command Line Music Player CLIMP
- This is a mini project with C++ to create a command line based music player using MciSendStrings
+ This is a project with C++ to create a command line integrated music player using MciSendStrings
 
 **Sample Screenshots**
 
