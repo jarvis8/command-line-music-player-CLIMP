@@ -1,4 +1,5 @@
-        hor X ver = 54 X 18
+       user interface
+       hor X ver = 54 X 18
 
         ****************************************************
         *                     C L I M P                 X  *
