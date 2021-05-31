@@ -1,5 +1,5 @@
-#include "define.h"//mentioned seperately
-#include "files.h"//mentioned sepertaely
+#include "define.h"
+#include "files.h"
 
 class run
 {
